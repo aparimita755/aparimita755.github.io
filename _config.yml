@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aparimita P Naik"
+title                    : "Aparimita Priyadarshini Naik"
 title_separator          : "-"
-name                     : &name "Aparimita P Naik"
-description              : &description "Aparimita P Naik's Website"
+name                     : &name "Aparimita Priyadarshini Naik"
+description              : &description "Aparimita Priyadarshini Naik's Website"
 url                      : https://aparimita755.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -57,9 +57,9 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : aparimita_priya
 facebook:
-  username               :
+  username               : apari.priyadarshini
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
@@ -80,36 +80,36 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Aparimita Priyadarshini Naik"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Research scholar, Civil Engineering Department, IIT Guwahati"
+  location         : "Guwahati, Assam, India"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=ACfE5mwAAAAJ&hl=en"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : "aparimita@iitg.ac.in"
+  researchgate     :  "https://www.researchgate.net/profile/Aparimita-Naik"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "apari.priyadarshini"
   foursquare       :
-  github           : "academicpages"
+  github           : "aparimita755"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "aparimita-p-naik"
+  orcid            : "https://orcid.org/0000-0002-9533-5596"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "aparimita_priya"
   vine             :
   weibo            :
   xing             :
