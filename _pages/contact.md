@@ -1,8 +1,8 @@
 ---
 layout: archive
-permalink: /contact/
-title: "Contact details"
-excerpt: "Contact me"
+permalink: /peer review/
+title: "Peer Review"
+excerpt: "Peer Review"
 author_profile: true
 ---
 Contact information is below, including email and various web services for more details about my work. 
