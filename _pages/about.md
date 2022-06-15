@@ -13,12 +13,16 @@ Aparimita Priyadarshini Naik
 ======
 
 
+
 About me
-======
+------
+
 
 
 Updates
 ------
+
+
 
 Contacts
 ------
