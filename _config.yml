@@ -85,10 +85,10 @@ author:
   bio              : "Research scholar, Civil Engineering Department, IIT Guwahati"
   location         : "Guwahati, Assam, India"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.co.in/citations?user=ACfE5mwAAAAJ&hl=en"
   email            : "aparimita@iitg.ac.in"
-  researchgate     :  "https://www.researchgate.net/profile/Aparimita-Naik"
+  researchgate     : "https://www.researchgate.net/profile/Aparimita-Naik"
   uri              :
   bitbucket        :
   codepen          :
