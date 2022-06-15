@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in IGIT, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Civil Engineering from Indira Gandhi Institute of Technology, Sarang, Odisha, 2009-2013
+* M.Tech. in Water Resources Engineering & Management from Indian Institute of Technology Guwahati, Assam, 2014-2016
+* Ph.D from Indian Institute of Technology Guwahati, Assam, 2016- 
 
 Work experience
 ======
