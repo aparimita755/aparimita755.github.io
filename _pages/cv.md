@@ -48,9 +48,9 @@ redirect_from:
   
 ## Awards and Recognition
 * **Scholarships**
-    * 2016 to 2021 – IIT Guwahati institute fellowship for PhD program. <br/>
-    * 2014 to 2016 – Ministry of Human Resource Development (MHRD), Government of India         fellowship for two years during Master of Technology (M Tech) program. <br/>
-    * (2010-11) - LANCO Foundation Merit Scholarship for becoming topper in civil engineering department during Bachelor of Technology (B Tech) program. <br/>
+    * 2016 to 2021 – Ministry of Human Resource Development (MHRD), Government of India fellowship for five years during PhD program. <br/>
+    * 2014 to 2016 – Ministry of Human Resource Development (MHRD), Government of India fellowship for two years during Master of Technology (M Tech) program. <br/>
+    * (2010-11) - LANCO Foundation Merit Award for excellent performance in Department of Civil Engineering during Bachelor of Technology (B Tech) program. <br/>
 * **Presentations**
     * Third prize in Poster presentation at Research Conclave, IIT Guwahati, Assam, India, (14th-17th March 2019) during PhD.<br/>
     * Best paper award under theme Hydrological analysis in oral presentation in HYDRO Conference, NIT Patna, Bihar, India (19th-21st Dec 2018) during PhD.<br/>
