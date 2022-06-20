@@ -53,7 +53,7 @@ redirect_from:
   * **Hydrologic Models:** HYDRUS, RETC, VS2DRTI
 
 
-## Workshops /Training Attended
+## Workshops /Trainings (Attended)
 
 * Integrated 1D and 2D River Flood Modelling using MIKE FLOOD at Assam Engineering College, Guwahati (Nov 2018)
 * Latex Workshop at Indian Institute of Technology (IIT) Guwahati (Sept 2017)
