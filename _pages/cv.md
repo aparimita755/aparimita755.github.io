@@ -27,24 +27,28 @@ redirect_from:
 	CGPA - 8.63/10.0
 
 ## Work Experience
-* Teaching Assistant, 
-  Department of Civil Engineering 
-  IIT Guwahati (2014-2021)
-  
-* Teaching Assistant for River Engineering 
-  NPTEL Online Certification Course, 2021
-  
-* Teaching Assistant for River Engineering 
-  NPTEL Online Certification Course, 2020
 
-* Teaching Assistant for Fluid Mechanics
-  NPTEL Online Certification Course, 2019
+## Teaching Assistant
+* Engineering Hydrology
+  NPTEL Online Certification Course (Under Graduate Course), (Jan-April 2022)
+* Engineering Hydrology laboratory
+  (Under Graduate Course, July-Nov 2020, Jan-May 2021)
+* Transient flow analysis 
+  (Post Graduate Course, July-Nov 2019, Jan-May 2020)
+* Advanced Fluid Mechanics 
+  (Post Graduate Course, July-Nov 2018, Jan-May 2019)
+* River Engineering 
+  (Post Graduate Course, July-Nov 2017, Jan-May 2018)
+* Engineering Drawing Laboratory 
+  (Under Graduate Course, July-Nov 2016, Jan-May 2017)
+  
+  ## Volunteership
+* Engineering Hydrology
+  NPTEL Online 
 
 * Volunteer at International Conference of Vibrational Problem-2017, 
   Organized by IIT Guwahati and  and IŞIK University.
- 
-* Volunteer at Short term course on Flood Risk and  River Basin Management, O
-  Organized by IIT Guwahati 2018
+
   
 * Graduate Trainee Engineer, Jindal Steel Plant Limited, Angul, Odisha (2013-2014) 
   
