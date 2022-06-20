@@ -27,7 +27,6 @@ redirect_from:
 	CGPA - 8.63/10.0
 
 ## Work Experience (at IIT Guwahati -2016-2022)
-
  * **Teaching Assistant**
     * Engineering Hydrology
       NPTEL Online Certification Course (Under Graduate Course), (Jan-April 2022)
@@ -47,6 +46,16 @@ redirect_from:
     * Student volunteer at International Conference of Vibrational Problem, 
       Organized by IIT Guwahati and IŞIK University (29th Nov-2nd Dec 2017)
   
+## Awards and Recognition
+* **Scholarships**
+    * 2016 to 2021 – IIT Guwahati institute fellowship for PhD program. <br/>
+    * 2014 to 2016 – Ministry of Human Resource Development (MHRD), Government of India         fellowship for two years during Master of Technology (M Tech) program. <br/>
+    * (2010-11) - LANCO Foundation Merit Scholarship for becoming topper in civil engineering department during Bachelor of Technology (B Tech) program. <br/>
+* **Presentations**
+    * Third prize in Poster presentation at Research Conclave, IIT Guwahati, Assam, India, (14th-17th March 2019) during PhD.<br/>
+    * Best paper award under theme Hydrological analysis in oral presentation in HYDRO Conference, NIT Patna, Bihar, India (19th-21st Dec 2018) during PhD.<br/>
+
+
 ## Technical Skills
   * **Programming Languages:** MATLAB
   * **Softwares:** SPSS, ORIGIN, AutoCAD, Microsoft Office 
