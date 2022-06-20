@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Ph.D.** in Subsurface hydrology and Unsaturated soil mechanics (2022)
+* **Ph.D.** in Unsaturated soil mechanics and Subsurface hydrology (2022)
 	Department of Civil Engineering <br/> 
 	Indian Institute of Technology (IIT) Guwahati, India <br/>
 	Supervisors: [Dr. Sreeja Pekkat](https://www.iitg.ac.in/sreeja/) <br/>
@@ -26,31 +26,27 @@ redirect_from:
 	Indira Gandhi Institute of technology, Sarang, Odisha, India 
 	CGPA - 8.63/10.0
 
-## Work Experience
+## Work Experience (at IIT Guwahati -2016-2022)
 
-## Teaching Assistant
-* Engineering Hydrology
+ ## Teaching Assistant 
+ * Engineering Hydrology
   NPTEL Online Certification Course (Under Graduate Course), (Jan-April 2022)
-* Engineering Hydrology laboratory
+ * Engineering Hydrology laboratory
   (Under Graduate Course, July-Nov 2020, Jan-May 2021)
-* Transient flow analysis 
+ * Transient flow analysis 
   (Post Graduate Course, July-Nov 2019, Jan-May 2020)
-* Advanced Fluid Mechanics 
+ * Advanced Fluid Mechanics 
   (Post Graduate Course, July-Nov 2018, Jan-May 2019)
-* River Engineering 
+ * River Engineering 
   (Post Graduate Course, July-Nov 2017, Jan-May 2018)
-* Engineering Drawing Laboratory 
+ * Engineering Drawing Laboratory 
   (Under Graduate Course, July-Nov 2016, Jan-May 2017)
   
-  ## Volunteership
-* Engineering Hydrology
-  NPTEL Online 
-
-* Volunteer at International Conference of Vibrational Problem-2017, 
-  Organized by IIT Guwahati and  and IŞIK University.
-
-  
-* Graduate Trainee Engineer, Jindal Steel Plant Limited, Angul, Odisha (2013-2014) 
+ ## Volunteership
+ * Student volunteer at 16th Annual meeting of Asia Oceania Geosciences Society (AOGS), 
+   Singapore, (28th July-2nd Aug 2019)
+ * Student volunteer at International Conference of Vibrational Problem, 
+   Organized by IIT Guwahati and IŞIK University (29th Nov-2nd Dec 2017)
   
 ## Skills
 * Hydrodynamic Models- HEC-RAS, CCHE2D
