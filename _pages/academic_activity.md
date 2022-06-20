@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-## Teaching:
+## Teaching Assistant:
 * Engineering Hydrology 
-
-
-## Talks/Presentations:
-* "R
+* Transient flow analysis 
+* River Engineering
+* Advanced Fluid Mechanics
+* Engineering Drawing
 
 ## Peer reviewing
 
