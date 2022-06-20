@@ -18,9 +18,9 @@ redirect_from:
 
 ## Peer reviewing
 
-Updated details can be found on [Publons profile](https://publons.com/researcher/1418272/ashutosh-sharma/peer-review/)
+Updated details can be found on [Publons profile](https://publons.com/researcher/5298547/aparimita-priyadarshini-naik/peer-review/)
 
-* Water Resources Research, AGU
+* Water Resources Research, AGU-Wiley
 * Groundwater for Sustainable Development, Elsevier
 
 
