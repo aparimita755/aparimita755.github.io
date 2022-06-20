@@ -25,8 +25,12 @@ Updates
 
 
 
-Contacts
-------
+## Contact Info and Links:
+* E-mail: aparimita@iitg.ac.in
+* ResearchGate: [Aparimita P Naik](https://www.researchgate.net/profile/Aparimita-Naik)
+* Google Scholar: [Aparimita P Naik](https://scholar.google.co.in/citations?user=ACfE5mwAAAAJ&hl=en)
+* LinkedIn: [Aparimita P Naik](https://www.linkedin.com/in/aparimita-p-naik-229436126/)
+
 
 
 
