@@ -11,7 +11,8 @@ redirect_from:
 
 ## Teaching Assistant:
    * Engineering Hydrology
-      NPTEL Online Certification Course (Under Graduate Course), (Jan-April 2022)
+      NPTEL (National Programme on Technology Enhanced Learning) Online Certification Course 
+      (Under Graduate Course), (Jan-April 2022)
    * Engineering Hydrology laboratory
       (Under Graduate Course, July-Nov 2020, Jan-May 2021)
    * Transient flow analysis 
@@ -29,8 +30,10 @@ Updated details can be found on [Publons profile](https://publons.com/researcher
 
 * Water Resources Research, AGU-Wiley
 * Groundwater for Sustainable Development, Elsevier
-* MDI-application review
-* Engineering Hydrology NPTEL Review
+
+## Other reviewing
+* Reviewed the 'Mini-Disk Infiltrometer Companion' application developed by software engineering students at Michigan Technological University, Houghton, Michigan (Nov 2021-April 2022)
+* Reviewed the transcripts of 'Engineering Hydrology' NPTEL (National Programme on Technology Enhanced Learning) course by IIT Madras (Feb-June 2022) 
 
 
 
