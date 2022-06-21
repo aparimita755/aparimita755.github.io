@@ -32,8 +32,8 @@ Updated details can be found on [Publons profile](https://publons.com/researcher
 * Groundwater for Sustainable Development, Elsevier
 
 ## Other reviewing
-* Reviewed the 'Mini-Disk Infiltrometer Companion' application developed by software engineering students at Michigan Technological University, Houghton, Michigan (Nov 2021-April 2022)
-* Reviewed the transcripts of 'Engineering Hydrology' NPTEL (National Programme on Technology Enhanced Learning) course by IIT Madras (Feb-June 2022) 
+* Reviewed 'Mini-Disk Infiltrometer Companion' application developed by software engineering students at Michigan Technological University, Houghton, Michigan (Nov 2021-April 2022)
+* Reviewed transcripts of 'Engineering Hydrology' NPTEL (National Programme on Technology Enhanced Learning) course by IIT Madras (Feb-June 2022) 
 
 
 
