@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
  
-My research aims to critically appraise the potential and utility of infiltration measurements to predict the unsaturated soil hydraulic parameters. 
-It is based on experimental evaluation using various infiltrometers, sensor measurements, and optimization tools using numerical modelling technique to evaluate the soil water hydraulic and retention characteristics and the associated hydraulic parameters.
+My research aims to appraise the potential and utility of infiltration measurements to predict the soil hydraulic characteristics in unsaturated soils. It focusses on evaluation of soil water hydraulic and retention characteristics and associated hydraulic parameters using experimental methodolgy by employing infiltrometer and sensor measurements, and numerical modelling technique using optimization tools .
+
 
 ## My research interests are:
 
