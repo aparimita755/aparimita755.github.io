@@ -9,7 +9,10 @@ My research aims
 
 ## My research interests are:
 
-* Eco-hydrological resilience analysis 
+•	Subsurface/vadose zone hydrology
+•	Unsaturated soil mechanics
+•	Hydrological modelling
+•	Numerical modelling
 
 
 ## Research Outputs
