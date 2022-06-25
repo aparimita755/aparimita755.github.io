@@ -10,9 +10,10 @@ My research aims to appraise the potential and utility of infiltration measureme
 
 ## My research interests are:
 
+*	Infiltration
+*	Transient flow analysis
 *	Subsurface/vadose zone hydrology
 *	Unsaturated soil mechanics
-*	Hydrological modelling
 *	Numerical modelling
 
 
