@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Ph.D.** in Unsaturated soil mechanics and Subsurface hydrology (2016-Thesis submitted)
+* **Ph.D.** in Unsaturated soil mechanics and Subsurface hydrology (2016-2022)(Thesis submitted)
 	Department of Civil Engineering <br/> 
 	Indian Institute of Technology (IIT) Guwahati, India <br/>
 	Supervisor: [Dr. Sreeja Pekkat](https://www.iitg.ac.in/sreeja/) <br/>
