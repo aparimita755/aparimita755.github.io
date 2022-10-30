@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Ph.D.** in Unsaturated soil mechanics and Subsurface hydrology (2016-continuing)
+* **Ph.D.** in Unsaturated soil mechanics and Subsurface hydrology (2016-Thesis submitted)
 	Department of Civil Engineering <br/> 
 	Indian Institute of Technology (IIT) Guwahati, India <br/>
 	Supervisor: [Dr. Sreeja Pekkat](https://www.iitg.ac.in/sreeja/) <br/>
-	Thesis title: Experimental and numerical evaluation of flow hydraulics beneath mini disc infiltrometer
+	Thesis title: Experimental and Numerical Evaluation of Flow beneath Mini Disc Infiltrometer for Estimating Wetting Characteristics of Soils.
 * **Master of Technology (M.Tech.)** in Water Resources Engineering (2016)
 	Department of Civil Engineering <br/>
 	Indian Institute of Technology (IIT) Guwahati, India <br/>
