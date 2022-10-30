@@ -64,8 +64,10 @@ redirect_from:
 
 ## Workshops /Trainings (Attended)
 
-* Integrated 1D and 2D River Flood Modelling using MIKE FLOOD at Assam Engineering College, Guwahati (Nov 2018)
+* TEQIP-III Sponsored webinar for one-week Workshop on “Research and Practices in Civil Engineering (RPCE-2020)” organized by Department of Civil Engineering, IGIT   Sarang (August, 2020)
+* Training course “Integrated 1D and 2D River Flood Modelling using MIKE FLOOD” at Assam Engineering College, Guwahati (November 2018)
 * Latex Workshop at Indian Institute of Technology (IIT) Guwahati (Sept 2017)
+* Workshop on “Advance Remote sensing and GIS: Methods and Applications” at IIT Guwahati (October, 2016)
 * Indo- Japan Workshop for “Rainfall Disaster and Human Adaptability” at IIT Guwahati (March, 2016)
 * GIAN course on “Optimization Methods to Ground Water Resources Management” at IIT Guwahati (March, 2016)
 
