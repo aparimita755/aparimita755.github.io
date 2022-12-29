@@ -58,7 +58,6 @@ redirect_from:
 
 ## Technical Skills
   * **Programming Languages:** MATLAB
-  * **Softwares:** SPSS, ORIGIN, AutoCAD, Microsoft Office 
   * **Hydrologic Models:** HYDRUS, RETC, VS2DRTI
 
 
