@@ -19,12 +19,13 @@ redirect_from:
 	Department of Civil Engineering <br/>
 	Indian Institute of Technology (IIT) Guwahati, India <br/>
 	Supervisor: [Dr. Sreeja Pekkat](https://www.iitg.ac.in/sreeja/) <br/>
-	Thesis title: Modelling of infiltration using HYDRUS 3D.
-	CGPA - 9.22/10.0
+	Thesis title: Estimating soil hydraulic properties from experimental and
+        numerical inversion using disc infiltrometers
+        **{CGPA - 9.22/10.0}**
 * **Bachelor of Technology (B.Tech.)** in Civil Engineering (2013)
 	Department of Civil Engineering, <br/>
 	Indira Gandhi Institute of technology, Sarang, Odisha, India 
-	CGPA - 8.63/10.0
+	**{CGPA - 8.63/10.0}**
 
 ## Work Experience (at IIT Guwahati -2016-2022)
  * **Teaching Assistant**
