@@ -26,7 +26,7 @@ redirect_from:
 
 ## Peer reviewing
 
-Details on [my Publons profile](https://www.webofscience.com/wos/author/record/GLS-0519-2022)
+Details in [my Publons profile](https://www.webofscience.com/wos/author/record/GLS-0519-2022)
 
 * Water Resources Research, AGU-Wiley
 * Groundwater for Sustainable Development, Elsevier
