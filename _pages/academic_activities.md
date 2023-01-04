@@ -26,6 +26,8 @@ redirect_from:
 
 ## Peer reviewing
 
+Details on Publons profile
+
 * Water Resources Research, AGU-Wiley
 * Groundwater for Sustainable Development, Elsevier
 
