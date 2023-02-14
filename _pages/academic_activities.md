@@ -29,6 +29,7 @@ redirect_from:
 Details in [my Publons profile](https://www.webofscience.com/wos/author/record/GLS-0519-2022)
 
 * Water Resources Research, AGU-Wiley
+* Soil and Tillage Research, Elsevier
 * Groundwater for Sustainable Development, Elsevier
 
 ## Other reviewing
