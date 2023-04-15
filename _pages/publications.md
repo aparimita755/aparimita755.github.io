@@ -17,7 +17,7 @@ You can also find updated list of my papers on [my Google Scholar profile](https
 1.	**Naik, A.P.**, Pekkat, S. (2022). “Discrepancy in Infiltration Equation Parameters While Using Ponded and Tension Boundary Pressure Head Conditions”. In: Jha, R., Singh, V.P., Singh, V., Roy, L.B., Thendiyath, R. (eds) Hydrological Modeling. Water Science and Technology Library, vol 109. Springer, Cham. https://doi.org/10.1007/978-3-030-81358-1_22
 
 ## Conferences
-1.	**Naik, A. P.**, & Pekkat, S. (2023) “Determination of wetting soil water characteristics curve from disk infiltrometer measurements”, (UNSAT) 2023. (Accepted for Oral Presentation)
+1.	**Naik, A. P.**, & Pekkat, S. (2023) “Determination of wetting soil water characteristics curve from disk infiltrometer measurements”, (UNSAT) 2023. (Accepted)
 2.	**Naik, A. P.**, & Pekkat, S. (2022) “Analysing unsaturated flow using retention curves from field and laboratory infiltration measurements”, AGU Fall Meeting, 2022. (Poster Presentation)
 3.	**Naik, A. P.**, & Pekkat, S. (2021) “Assessing soil water retention parameters obtained from two different databases using inverse modeling”, AGU Fall Meeting, 2021. (Oral Presentation)
 4.	**Naik, A. P.**, & Pekkat, S. (2021) “A Comparative assessment of estimated soil hydraulic conductivity from rainfall simulator and infiltrometer using laboratory repacked soil samples”, EGU General Assembly 2021, Copernicus Meetings, 19-30 April 2021; https://doi.org/10.5194/egusphere-egu21-7099 (Oral Presentation)
