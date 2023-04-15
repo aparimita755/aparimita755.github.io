@@ -49,7 +49,7 @@ redirect_from:
   
 ## Awards and Recognition
 * **Grants**
-    * 2023-International Travel Support by Department of Science and Technology, Government of India, for participating in "8th International Conference on Unsaturated       Soils (UNSAT 2023), Greece (May 2023) **(Approved)
+    * 2023-International Travel Support by Department of Science and Technology, Government of India, for participating in "8th International Conference on Unsaturated       Soils (UNSAT 2023), Greece (May 2023) **(Approved)**
 * **Scholarships** 
     * 2016 to 2021 – Ministry of Human Resource Development (MHRD), Government of India fellowship for five years during PhD program. <br/>
     * 2014 to 2016 – Ministry of Human Resource Development (MHRD), Government of India fellowship for two years during Master of Technology (M Tech) program. <br/>
