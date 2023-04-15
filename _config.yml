@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Aparimita Priyadarshini Naik"
+title                    : "Aparimita Priyadarshini Naik"
 title_separator          : "-"
-name                     : &name "Aparimita Priyadarshini Naik"
+name                     : &name "Dr. Aparimita Priyadarshini Naik"
 description              : &description "Aparimita Priyadarshini Naik's Website"
 url                      : https://aparimita755.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
