@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "Aparimita Priyadarshini Naik"
+title: "Dr. Aparimita Priyadarshini Naik"
 author_profile: true
 redirect_from: 
   - /about/
