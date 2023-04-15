@@ -8,20 +8,21 @@ redirect_from:
   - /about.html
 ---
 
-Research Scholar <br/> 
+Ph.D. <br/> 
 Department of Civil Engineering <br/> 
 Indian Institute of Technology Guwahati <br/> 
 Guwahati - 781039, Assam, India <br/> 
 
 
 ## About me
-Welcome! I am a Research Scholar in the [Civil Engineering department](https://iitg.ac.in/civil/site) of  [Indian Institute of Technology Guwahati](https://iitg.ac.in/).  
+Greetings! I am a Ph.D. graduate from the [Civil Engineering department](https://iitg.ac.in/civil/site) of  [Indian Institute of Technology Guwahati](https://iitg.ac.in/).  
 
-I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT Sarang](https://igitsarang.ac.in/) and a M.Tech. (Master of Technology) degree in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). Currently, as a part of my Ph.D. at IIT Guwahati, I am working on characterisation of soil hydraulic properties and retention characteristics from infiltration measurements using experimental and numerical modelling. 
+I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT Sarang](https://igitsarang.ac.in/) and a M.Tech. (Master of Technology) degree in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). As a part of my Ph.D. at IIT Guwahati, I was working on characterisation of hydraulic and retention properties of unsaturated and near-saturated soils from infiltration measurements using experimental and numerical modelling. The results from this study demonstrated a rapid, non-intrusive, and non-invasive way for accurate quantification of wetting soil hydraulic and retention characteristics using transient flow measurements from disc infiltrometer.
 
 
 ## [Updates]
 
+* Attending 8th International Conference on Unsaturated Soils (UNSAT 2023) “Towards Unsaturated Soils Engineering”, in Greece (May 2023), to present on topic “Determination of wetting soil water characteristics curve from disk infiltrometer measurements”
 
 ## Contact Info and Links:
 * E-mail: aparimita@iitg.ac.in; aparimita755@gmail.com
