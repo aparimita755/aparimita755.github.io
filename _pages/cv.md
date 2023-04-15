@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Ph.D.** in Unsaturated soil mechanics and Subsurface hydrology (2016-2023)
+* **Ph.D.** in  Subsurface hydrology and Unsaturated soil mechanics (July 2016-Feb 2023)
 	Department of Civil Engineering <br/> 
 	Indian Institute of Technology (IIT) Guwahati, India <br/>
 	Supervisor: [Dr. Sreeja Pekkat](https://www.iitg.ac.in/sreeja/) <br/>
@@ -48,7 +48,9 @@ redirect_from:
       Organized by IIT Guwahati and IŞIK University (29th Nov-2nd Dec 2017)
   
 ## Awards and Recognition
-* **Scholarships**
+* **Grants**
+    * 2023-International Travel Support by Department of Science and Technology, Government of India, for participating in "8th International Conference on Unsaturated       Soils (UNSAT 2023), Greece (May 2023) **(Approved)
+* **Scholarships** 
     * 2016 to 2021 – Ministry of Human Resource Development (MHRD), Government of India fellowship for five years during PhD program. <br/>
     * 2014 to 2016 – Ministry of Human Resource Development (MHRD), Government of India fellowship for two years during Master of Technology (M Tech) program. <br/>
     * (2010-11) - LANCO Foundation Merit Award for excellent performance in Department of Civil Engineering during Bachelor of Technology (B Tech) program. <br/>
