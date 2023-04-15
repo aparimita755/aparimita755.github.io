@@ -17,7 +17,7 @@ Guwahati - 781039, Assam, India <br/>
 ## About me
 Greetings! I am a Ph.D. graduate from the [Civil Engineering department](https://iitg.ac.in/civil/site) of  [Indian Institute of Technology Guwahati](https://iitg.ac.in/).  
 
-I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT Sarang](https://igitsarang.ac.in/) and a M.Tech. (Master of Technology) degree in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). During my Ph.D. at IIT Guwahati, I worked on characterizing the hydraulic and retention properties of unsaturated and near-saturated soils using experimental and numerical modelling.Through this research, I was able to establish that transient flow measurements from disc infiltrometers offer a rapid, non-intrusive, and non-invasive way for accurately quantifying the soil hydraulic and retention characteristics.
+I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT Sarang](https://igitsarang.ac.in/) and a M.Tech. (Master of Technology) degree in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). During my Ph.D. at IIT Guwahati, I worked on characterizing the hydraulic and retention properties of unsaturated and near-saturated soils using experimental and numerical modelling.This research offered a rapid, non-intrusive, and non-invasive means for accurately quantifying the soil hydraulic and retention characteristics using transient flow measurements from disc infiltrometers.
 
 
 ## [Updates]
