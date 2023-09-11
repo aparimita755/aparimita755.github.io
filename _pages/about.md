@@ -19,11 +19,6 @@ Greetings! I am a Ph.D. graduate from the [Civil Engineering department](https:/
 
 I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT Sarang](https://igitsarang.ac.in/) and a M.Tech. (Master of Technology) degree in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). During my Ph.D. at IIT Guwahati, I worked on characterizing the hydraulic and retention properties of unsaturated and near-saturated soils using experimental and numerical modelling. This research offered a rapid, non-intrusive, and non-invasive means for accurately quantifying the soil hydraulic and retention characteristics using transient flow measurements from disc infiltrometers.
 
-
-## [Updates]
-
-* Attending 8th International Conference on Unsaturated Soils (UNSAT 2023) in Greece (May 2023) to present on the topic “Determination of wetting soil water characteristics curve from disk infiltrometer measurements”
-
 ## Contact Info and Links:
 * E-mail: aparimita@iitg.ac.in; aparimita755@gmail.com
 * ResearchGate: [Aparimita P Naik](https://www.researchgate.net/profile/Aparimita-Naik)
