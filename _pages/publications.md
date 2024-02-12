@@ -8,10 +8,11 @@ author_profile: true
 You can also find updated list of my papers on [my Google Scholar profile](https://scholar.google.co.in/citations?user=ACfE5mwAAAAJ&hl=en)
 
 ## Journal Articles 
-1.	**Naik, A. P.**, & Pekkat, S. (2022). “Time dependence of hydraulic parameters estimation from transient analysis of mini disc infiltrometer measurements”. European Journal of Soil Science, 73(2), e13228. https://doi.org/10.1111/ejss.13228
-2.	**Naik, A. P.**, & Pekkat, S. (2022). “An appraisal on the soil wetting water retention characteristic curve determined from mini disk infiltrometer and sensor measurements”. Acta Geophysica, 1-22. https://doi.org/10.1007/s11600-022-00932-2
-3.	Ghosh, B., **Naik, A. P.**, & Pekkat, S. (2022). “Rectangular Hyperbola Method for the Estimation of Soil Near Surface Hydraulic Conductivity Based on Short Term Infiltration Measurements”. Eurasian Soil Science, 55(12), 1761-1769. https://doi.org/10.1134/S1064229322601202
-4.	**Naik, A. P.**, Ghosh, B., & Pekkat, S. (2019). “Estimating soil hydraulic properties using mini disk infiltrometer”. ISH Journal of Hydraulic Engineering, 25(1), 62-70.  https://doi.org/10.1080/09715010.2018.1471363
+1.  **Naik, A. P.**, Norbu, T., & Pekkat, S. (2024) “Comparison of Flux-based and head-based methods for determination of near-surface saturated hydraulic conductivity ”. Hydrological Sciences Journal, https://doi.org/10.1080/02626667.2024.2305745
+2.	**Naik, A. P.**, & Pekkat, S. (2023). “An appraisal on the soil wetting water retention characteristic curve determined from mini disk infiltrometer and sensor measurements”. Acta Geophysica, 1-22. https://doi.org/10.1007/s11600-022-00932-2
+3.	**Naik, A. P.**, & Pekkat, S. (2022). “Time dependence of hydraulic parameters estimation from transient analysis of mini disc infiltrometer measurements”. European Journal of Soil Science, 73(2), e13228. https://doi.org/10.1111/ejss.13228
+4.	Ghosh, B., **Naik, A. P.**, & Pekkat, S. (2022). “Rectangular Hyperbola Method for the Estimation of Soil Near Surface Hydraulic Conductivity Based on Short Term Infiltration Measurements”. Eurasian Soil Science, 55(12), 1761-1769. https://doi.org/10.1134/S1064229322601202
+5.	**Naik, A. P.**, Ghosh, B., & Pekkat, S. (2019). “Estimating soil hydraulic properties using mini disk infiltrometer”. ISH Journal of Hydraulic Engineering, 25(1), 62-70.  https://doi.org/10.1080/09715010.2018.1471363
 
 ## Book Chapters
 1.	**Naik, A.P.**, Pekkat, S. (2022). “Discrepancy in Infiltration Equation Parameters While Using Ponded and Tension Boundary Pressure Head Conditions”. In: Jha, R., Singh, V.P., Singh, V., Roy, L.B., Thendiyath, R. (eds) Hydrological Modeling. Water Science and Technology Library, vol 109. Springer, Cham. https://doi.org/10.1007/978-3-030-81358-1_22
