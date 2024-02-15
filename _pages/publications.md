@@ -8,7 +8,7 @@ author_profile: true
 You can also find updated list of my papers on [my Google Scholar profile](https://scholar.google.co.in/citations?user=ACfE5mwAAAAJ&hl=en)
 
 ## Journal Articles 
-1.  **Naik, A. P.**, Norbu, T., & Pekkat, S. (2024) “Comparison of Flux-based and head-based methods for determination of near-surface saturated hydraulic conductivity ”. Hydrological Sciences Journal, https://doi.org/10.1080/02626667.2024.2305745
+1.  **Naik, A. P.**, Norbu, T., & Pekkat, S. (2024) “Comparison of Flux-based and head-based methods for determination of near-surface saturated hydraulic conductivity ”. Hydrological Sciences Journal, 1-19. https://doi.org/10.1080/02626667.2024.2305745
 2.	**Naik, A. P.**, & Pekkat, S. (2023). “An appraisal on the soil wetting water retention characteristic curve determined from mini disk infiltrometer and sensor measurements”. Acta Geophysica, 1-22. https://doi.org/10.1007/s11600-022-00932-2
 3.	**Naik, A. P.**, & Pekkat, S. (2022). “Time dependence of hydraulic parameters estimation from transient analysis of mini disc infiltrometer measurements”. European Journal of Soil Science, 73(2), e13228. https://doi.org/10.1111/ejss.13228
 4.	Ghosh, B., **Naik, A. P.**, & Pekkat, S. (2022). “Rectangular Hyperbola Method for the Estimation of Soil Near Surface Hydraulic Conductivity Based on Short Term Infiltration Measurements”. Eurasian Soil Science, 55(12), 1761-1769. https://doi.org/10.1134/S1064229322601202
