@@ -14,7 +14,7 @@ Civil and Environmental Engineering
 
 
 ## About me
-Greetings! I am a Postdoctoral research fellow in the [Civil and Environmental Engineering Department](https://cee.mines.edu/) of Colorado School of Mines, USA.  
+Greetings! I am currently a Postdoctoral research fellow in the [Civil and Environmental Engineering Department](https://cee.mines.edu/) of Colorado School of Mines, USA.  
 
 I have a B.Tech. (Bachelor of Technology) degree in Civil Engineering from [IGIT Sarang](https://igitsarang.ac.in/) and M.Tech. (Master of Technology) and Ph.D. degrees in Water Resources Engineering and Management from [IIT Guwahati](https://iitg.ac.in/). During my Ph.D., I worked on characterizing the hydraulic and retention properties of unsaturated and near-saturated soils using experimental and numerical modelling. This research offered a rapid, non-intrusive, and non-invasive means for accurately quantifying the soil hydraulic and retention characteristics using transient flow measurements from disc infiltrometers.
 
