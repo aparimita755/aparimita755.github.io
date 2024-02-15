@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Postdoctoral Fellow 
-Civil and Environmental Engineering
+Postdoctoral Fellow <br>
+Civil and Environmental Engineering <br>
 [Colorado School of Mines](https://www.mines.edu/)
 
 
