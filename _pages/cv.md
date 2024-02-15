@@ -10,7 +10,10 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Ph.D.** in  Water Resources Engineering (July 2016-Feb 2023)
+* **Postdoc** (Jan 2024-continuing)
+	Department of Civil and Environemntal Engineering <br/> 
+	Colorado School of Mines, Colorado, USA <br/>
+ * **Ph.D.** in  Water Resources Engineering (July 2016-Feb 2023)
 	Department of Civil Engineering <br/> 
 	Indian Institute of Technology (IIT) Guwahati, India <br/>
 	Supervisor: [Dr. Sreeja Pekkat](https://www.iitg.ac.in/sreeja/) <br/>
