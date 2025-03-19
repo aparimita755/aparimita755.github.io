@@ -11,8 +11,10 @@ redirect_from:
 
 ## Education
 * **Postdoc** (Jan 2024-continuing)
-	Department of Civil and Environemntal Engineering <br/> 
+	Department of Civil and Environmental Engineering <br/> 
 	Colorado School of Mines, Colorado, USA <br/>
+        PIs: Prof. Christopher P. Higgins, Prof. Kamini Singha, Prof. Tissa H. Illangasekare 
+        Work title: Column studies for investigation of PFAS retention and migration in heterogeneous soils.
  * **Ph.D.** in  Water Resources Engineering (July 2016-Feb 2023)
 	Department of Civil Engineering <br/> 
 	Indian Institute of Technology (IIT) Guwahati, India <br/>
