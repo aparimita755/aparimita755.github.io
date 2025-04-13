@@ -10,10 +10,11 @@ My research aims to appraise the potential and utility of infiltration measureme
 
 ## My research interests are:
 
+*	Subsurface/vadose zone hydrology
 *	Infiltration
 *	Soil hydraulic characterization
 *	Unsaturated flow
-*	Subsurface/vadose zone hydrology
+*	Contaminant transport
 *	Numerical modelling
 
 
