@@ -10,28 +10,28 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-* **Postdoc** (Jan 2024-continuing)
+* **Postdoc** (Jan 2024-present)<br/>
 	Department of Civil and Environmental Engineering <br/> 
 	Colorado School of Mines, Colorado, USA <br/>
-        PIs: Prof. Christopher P. Higgins, Prof. Kamini Singha, Prof. Tissa H. Illangasekare <br/>
-        Work title: Column studies for investigation of PFAS retention and migration in heterogeneous soils.
- * **Ph.D.** in  Water Resources Engineering (July 2016-Feb 2023)
+        PIs: [Prof. Christopher P. Higgins](https://cee.mines.edu/project/higgins-christopher/), [Prof. Kamini Singha](https://geology.mines.edu/project/singha-kamini/), [Prof. Tissa H. Illangasekare](https://cee.mines.edu/project/illangasekare-tissa/) <br/>
+        Work title: Soil column study for investigating PFAS retention and migration in heterogeneous soils.
+ * **Ph.D.** in  Water Resources Engineering (July 2016-Feb 2023)<br/>
 	Department of Civil Engineering <br/> 
-	Indian Institute of Technology (IIT) Guwahati, India <br/>
+	Indian Institute of Technology (IIT) Guwahati, Assam, India <br/>
 	Supervisor: [Dr. Sreeja Pekkat](https://www.iitg.ac.in/sreeja/) <br/>
 	Thesis title: Experimental and Numerical Evaluation of Flow beneath Mini Disc Infiltrometer for Estimating Wetting Characteristics of Soils.
-* **Master of Technology (M.Tech.)** in Water Resources Engineering (2016)
+* **Master of Technology (M.Tech.)** in Water Resources Engineering (July 2014-June 2016)<br/>
 	Department of Civil Engineering <br/>
-	Indian Institute of Technology (IIT) Guwahati, India <br/>
+	Indian Institute of Technology (IIT) Guwahati, Assam, India <br/>
 	Supervisor: [Dr. Sreeja Pekkat](https://www.iitg.ac.in/sreeja/) <br/>
-	Thesis title: Estimating soil hydraulic properties from experimental and
-        numerical inversion using disc infiltrometers
+	Thesis title: Estimating soil hydraulic properties from experimental and numerical inversion using disc infiltrometers.
         **{CGPA - 9.22/10.0}**
-* **Bachelor of Technology (B.Tech.)** in Civil Engineering (2013)
-	Department of Civil Engineering, <br/>
-	Indira Gandhi Institute of technology, Sarang, Odisha, India 
-	**{CGPA - 8.63/10.0}**
-
+* **Bachelor of Technology (B.Tech.)** in Civil Engineering (2013)<br/>
+	Department of Civil Engineering <br/>
+	Indira Gandhi Institute of Technology (IGIT), Sarang, Odisha, India <br/>
+        Supervisor: [Prof. Bikash C. Panda](https://igitsarang.ac.in/facultypage/civil/150994976) <br/>
+	Thesis title: Performance of recycled aggregate in concrete.
+        **{CGPA - 8.63/10.0}**
 ## Work Experience (at IIT Guwahati -2016-2022)
  * **Teaching Assistant**
     * Engineering Hydrology
